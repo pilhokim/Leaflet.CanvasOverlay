@@ -1,0 +1,20 @@
+{
+  "name": "leaflet-canvasoverlay",
+  "version": "1.0.0",
+  "description": "package.json support for https://gist.github.com/Sumbera/11114288",
+  "main": "L.CanvasOverlay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/pilhokim/Leaflet.CanvasOverlay.git"
+  },
+  "keywords": [
+    "leaflet",
+    "canvas",
+    "overlay"
+  ],
+  "author": "Sumbera",
+  "license": "ISC"
+}
